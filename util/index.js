@@ -28,15 +28,29 @@ exports.mapAddressesOutOfLists = (globalList) =>
   })
 
 /**
+ * Create a light version of key-value pair, where value is not the whole tokenObject but only its property (key)
+ * @param {object} globalObject - global tokens object as in /content
+ * @param {string} key - key of tokenObject
+ * @returns {object} key-value object where key is address of the token, value - key of tokenObject
+ */
+exports.createKeyValueLightVersion = (globalObject, key) =>
+  Object.entries(globalObject).reduce(
+    (acc, [address, rest]) => ({ ...acc, [address]: rest[key] }),
+    {}
+  )
+
+/**
  * Bidirectional mapping: maps key_value dir into list dir and vice versa
  * @param {string} sourceDirName
  * @param {string} targetDirName
- * @param {number} mode // 0 - key_value into list, 1 - list into key_value
+ * @param {object} config
+ * - mode - 0 - key_value into list, 1 - list into key_value, 2 - key_value into light key_value
+ * - key - name of the key of tokenObject to make a light key value version from, if mode === 2
  */
 exports.createTargetDir = (
-  sourceDirName = 'key_value_full',
-  targetDirName = 'list_full',
-  mode = 0
+  sourceDirName,
+  targetDirName,
+  config = { mode: 0, key: '' }
 ) => {
   const targetDir = `./content/${targetDirName}`
   const sourceDir = `./content/${sourceDirName}`
@@ -50,10 +64,15 @@ exports.createTargetDir = (
     const content = fs.readFileSync(`${sourceDir}/${fileName}`)
     const parsedContent = JSON.parse(content)
     let mappedContent
-    if (mode === 0) {
+    if (config.mode === 0) {
       mappedContent = module.exports.mapAddressesIntoList(parsedContent)
-    } else if (mode === 1) {
+    } else if (config.mode === 1) {
       mappedContent = module.exports.mapAddressesOutOfLists(parsedContent)
+    } else if (config.mode === 2) {
+      mappedContent = module.exports.createKeyValueLightVersion(
+        parsedContent,
+        config.key
+      )
     } else {
       throw new Error('Unsupported mode')
     }
