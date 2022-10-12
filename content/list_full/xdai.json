@@ -1,0 +1,1108 @@
+[
+  {
+    "address": "0x8c88ea1fd60462ef7004b9e288afcb4680a3c50c",
+    "name": "0xMonero",
+    "symbol": "0XMR",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/11035/small/0xmnr.PNG?1587357680"
+  },
+  {
+    "address": "0xb5d30c28f87acf675ed5b9f343e5fff39ec9942c",
+    "name": "RealT -10024-10028 Appoline St, Detroit, MI 48227",
+    "symbol": "REALT-S-10024-10028-APPOLINE-ST-DETROIT-MI",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/16639/small/appoline-hero.jpeg?1624559019"
+  },
+  {
+    "address": "0x92161385c9de8798ad5fb01c0be99ffcbc84dfd8",
+    "name": "RealT - 10084 Grayton St, Detroit, MI 48224",
+    "symbol": "REALT-S-10084-GRAYTON-ST-DETROIT-MI",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/16693/small/Grayton_84_side1x.jpeg?1624638633"
+  },
+  {
+    "address": "0x8626b38267e4fc0d8c92e0bb86f97acab3f6aa05",
+    "name": "RealT - 10604 Somerset Ave, Detroit, MI 48224",
+    "symbol": "REALT-S-10604-SOMERSET-AVE-DETROIT-MI",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/16682/small/10604-Somerset-hero-1.jpeg?1624632454"
+  },
+  {
+    "address": "0xd1c15cebfdcd16f00d91666bf64c8b66cbf5e9b5",
+    "name": "RealT - 10612 Somerset Ave, Detroit, MI 48224",
+    "symbol": "REALT-S-10612-SOMERSET-AVE-DETROIT-MI",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/16680/small/Somerset-3.jpeg?1624630432"
+  },
+  {
+    "address": "0xe5ce63ac9a08c1eb160889151cd84855f16c94d2",
+    "name": "RealT - 10616 McKinney St, Detroit, MI 48224",
+    "symbol": "REALT-S-10616-MCKINNEY-ST-DETROIT-MI",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/16685/small/Mkinney-hero.jpeg?1624634131"
+  },
+  {
+    "address": "0x06d0e5aee443093ac5635b709c8a01342e59df19",
+    "name": "RealT - 10617 Hathaway Ave, Cleveland, OH 44108",
+    "symbol": "REALT-S-10617-HATHAWAY-AVE-CLEVELAND-OH",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/16709/small/10617-Hathaway-hero-1.jpeg?1624647056"
+  },
+  {
+    "address": "0xd5d1adf54fbf73a00b197ddcfdad7cc27d93002f",
+    "name": "RealT - 10629 McKinney St, Detroit, MI 48224",
+    "symbol": "REALT-S-10629-MCKINNEY-ST-DETROIT-MI",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/16611/small/10629-McKinney-hero-1.jpg?1624545790"
+  },
+  {
+    "address": "0x4a99cc509f7facf58d7b67e99236db5e0921ef81",
+    "name": "RealT - 10639 Stratman St, Detroit, MI 48224",
+    "symbol": "REALT-S-10639-STRATMAN-ST-DETROIT-MI",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/16621/small/10639-Stratman-hero-1.jpg?1624551202"
+  },
+  {
+    "address": "0xe82cbb7c29d00a4296ee505d12a473c26cd9c423",
+    "name": "RealT - 10700 Whittier Ave, Detroit, MI 48224",
+    "symbol": "REALT-S-10700-WHITTIER-AVE-DETROIT-MI",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/16625/small/10700-Whittier-hero-2.jpg?1624552489"
+  },
+  {
+    "address": "0xd5fc0c4c4c5ff316e1e91494d963ff1d52ba25ff",
+    "name": "RealT - 11078 Longview St, Detroit, MI 48213",
+    "symbol": "REALT-S-11078-LONGVIEW-ST-DETROIT-MI",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/16630/small/11078-Longview-hero-2.5.jpg?1624553559"
+  },
+  {
+    "address": "0xb8403b7730368942a5bfe5aac04a31b44015b1cc",
+    "name": "RealT - 11078 Wayburn St, Detroit, MI 48224",
+    "symbol": "REALT-S-11078-WAYBURN-ST-DETROIT-MI",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/16596/small/11078-Wayburn-hero-1.jpg?1624541135"
+  },
+  {
+    "address": "0x5e2a09064b2dca8c44aad8a5b69a69bb1854fe72",
+    "name": "RealT - 11201 College St, Detroit, MI 48205",
+    "symbol": "REALT-S-11201-COLLEGE-ST-DETROIT-MI",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/16594/small/11201-College-hero-1.jpg?1624540102"
+  },
+  {
+    "address": "0x9b5b4886033b4abc5eb0552fff7c15a67c3c47c7",
+    "name": "RealT - 11300 Roxbury St, Detroit, MI 48224",
+    "symbol": "REALT-S-11300-ROXBURY-ST-DETROIT-MI",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/16610/small/11300-Roxbury-hero-1.jpg?1624545386"
+  },
+  {
+    "address": "0x31820af2d43c08bd82bd94b08974062482bd98d3",
+    "name": "RealT - 11653 Nottingham Rd, Detroit, MI 48224",
+    "symbol": "REALT-S-11653-NOTTINGHAM-RD-DETROIT-MI",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/16622/small/11653-Nottingham-hero-1.jpg?1624551450"
+  },
+  {
+    "address": "0xdd833d0eef6d5d7cec781b03c19f3b425f3039df",
+    "name": "RealT - 11957 Olga St, Detroit, MI 48213",
+    "symbol": "REALT-S-11957-OLGA-ST-DETROIT-MI",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/16672/small/11957-Olga-hero-1.jpg?1624628071"
+  },
+  {
+    "address": "0xee2f2212a64ec3f6bc0f7580e10c53cb38b57508",
+    "name": "RealT - 12334 Lansdowne Street, Detroit, MI 48224",
+    "symbol": "REALT-S-12334-LANSDOWNE-STREET-DETROIT-MI",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/16692/small/Landsdowne-hero.jpeg?1624638212"
+  },
+  {
+    "address": "0x9d918ee39a356be8ef99734599c7e70160db4db6",
+    "name": "RealT - 12405 Santa Rosa Dr, Detroit, MI 48204",
+    "symbol": "REALT-S-12405-SANTA-ROSA-DR-DETROIT-MI",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/16671/small/12405-Santa-Rosa-hero-1.jpg?1624627801"
+  },
+  {
+    "address": "0x969d42ad7008e6651e1fd52742153f8743225d98",
+    "name": "RealT - 12409 Whitehill St, Detroit, MI 48224",
+    "symbol": "REALT-S-12409-WHITEHILL-ST-DETROIT-MI",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/16668/small/12409-Whitehill-hero-1.jpg?1624627067"
+  },
+  {
+    "address": "0x94fa7f8cb8453ad57cd133363b3012044647078c",
+    "name": "RealT - 1244 S. Avers St, Chicago, IL 60623",
+    "symbol": "REALT-S-1244-S.AVERS-ST-CHICAGO-IL",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/16634/small/1244-S-Avers-hero-3.jpeg?1624555551"
+  },
+  {
+    "address": "0xb5dd2b6e0a0422e069e1d2cc3ed16533488a05e3",
+    "name": "RealT - 12866 Lauder St, Detroit, MI 48227",
+    "symbol": "REALT-S-12866-LAUDER-ST-DETROIT-MI",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/16565/small/12866-Lauder-hero-1.jpg?1624460677"
+  },
+  {
+    "address": "0x5600e25b4f24c63afa655c3bd96e3c178b654fa1",
+    "name": "RealT - 13045 Wade St, Detroit, MI 48213",
+    "symbol": "REALT-S-13045-WADE-ST-DETROIT-MI",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/16617/small/13045-Wade-hero-1.jpg?1624549855"
+  },
+  {
+    "address": "0x9f923653a19537b5a1b003854a1920fe67a8ffeb",
+    "name": "RealT - 13114 Glenfield Ave, Detroit, MI 48213",
+    "symbol": "REALT-S-13114-GLENFIELD-AVE-DETROIT-MI",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/16678/small/13114-Glenfield-Ave.jpeg?1624629523"
+  },
+  {
+    "address": "0x08ad1f3a48be1d23c723a6cc8486b247f5de935a",
+    "name": "RealT - 13116 Kilbourne Ave, Detroit, MI 48213",
+    "symbol": "REALT-S-13116-KILBOURNE-AVE-DETROIT-MI",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/16679/small/13116-Kilbourne-hero-1.jpeg?1624630007"
+  },
+  {
+    "address": "0x4e98493920b16dd6642e9d48497c8d0a49150f6f",
+    "name": "RealT -13991 Warwick St, Detroit, MI, 48223",
+    "symbol": "REALT-S-13991-WARWICK-ST-DETROIT-MI",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/16662/small/Warwick-hero.jpeg?1624624485"
+  },
+  {
+    "address": "0xe887dc4fcb5240c0c080aeab8870421d3ebd0b28",
+    "name": "RealT - 14066 Santa Rosa Dr, Detroit, MI 48238",
+    "symbol": "REALT-S-14066-SANTA-ROSA-DR-DETROIT-MI",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/16677/small/14066-Santa-Rosa-hero-1.5.jpg?1624629250"
+  },
+  {
+    "address": "0x315699f1ba88383cff2f2f30fcad187adb2e4d72",
+    "name": "RealT - 14078 Carlisle St, Detroit, MI 48205",
+    "symbol": "REALT-S-14078-CARLISLE-ST-DETROIT-MI",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/16597/small/14078-Carlisle-hero-1-800x600.jpeg?1624541175"
+  },
+  {
+    "address": "0xb09850e2b93aa3aaa1476bf0c007cfc960e2de79",
+    "name": "RealT - 14229 Wilshire Dr, Detroit, MI 48213",
+    "symbol": "REALT-S-14229-WILSHIRE-DR-DETROIT-MI",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/16604/small/14229-Wilshire-hero-1.jpg?1624543967"
+  },
+  {
+    "address": "0x9528a7402c0fe85b817aa6e106eafa03a02924c4",
+    "name": "RealT - 14231 Strathmoor St, Detroit, MI 48227",
+    "symbol": "REALT-S-14231-STRATHMOOR-ST-DETROIT-MI",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/16563/small/14231-Strathmoor-hero-1.jpg?1624459471"
+  },
+  {
+    "address": "0x41599149f1b52035392402f9e311b1edb0c9f699",
+    "name": "RealT - 14319 Rosemary St, Detroit, MI 48213",
+    "symbol": "REALT-S-14319-ROSEMARY-ST-DETROIT-MI",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/16592/small/14319-Rosemary-hero-1-800x600.jpeg?1624539171"
+  },
+  {
+    "address": "0x2adc1cfa726a45264a328d9d2e2c692ceac97458",
+    "name": "RealT - 14494 Chelsea Ave, Detroit, MI 48213",
+    "symbol": "REALT-S-14494-CHELSEA-AVE-DETROIT-MI",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/16618/small/14494-Chelsea-hero-1.jpg?1624550267"
+  },
+  {
+    "address": "0x43fed9f9bf7deedcb314b432a8e38219dd62ce9e",
+    "name": "RealT - 14825 Wilfred St, Detroit, MI 48213",
+    "symbol": "REALT-S-14825-WILFRIED-ST-DETROIT-MI",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/16598/small/14825-Wilfried-hero-1.jpg?1624541680"
+  },
+  {
+    "address": "0xff1b4d71ae12538d86777a954b136cf723fccefd",
+    "name": "RealT - 14882 Troester St, Detroit, MI 48205",
+    "symbol": "REALT-S-14882-TROESTER-ST-DETROIT-MI",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/16600/small/14882-Troester-hero-1.jpg?1624542180"
+  },
+  {
+    "address": "0x7e95b310724334ff74537dc08bfd3377d25e65ce",
+    "name": "RealT - 15039 Ward Ave, Detroit, MI 48227",
+    "symbol": "REALT-S-15039-WARD-AVE-DETROIT-MI",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/16632/small/15039-Ward-hero-1.jpeg?1624554456"
+  },
+  {
+    "address": "0xe3902e329ef2d3fd7666022c139d75bcc984b7a5",
+    "name": "RealT - 15048 Freeland St, Detroit, MI, 48227",
+    "symbol": "REALT-S-15048-FREELAND-ST-DETROIT-MI",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/16669/small/Freeland-8_jpeg.png?1624627336"
+  },
+  {
+    "address": "0x9fef44fc4c571010bccd5b63e1cdc807d3b347bf",
+    "name": "RealT -15095 Hartwell St, Detroit, MI 48227",
+    "symbol": "REALT-S-15095-HARTWELL-ST-DETROIT-MI",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/16664/small/15095-Hartwell-hero-1.jpeg?1624625590"
+  },
+  {
+    "address": "0xda47bd33e8f5d17bb81b8752784bfb46c1c44b2a",
+    "name": "RealT - 15350 Greydale St, Detroit, MI 48223",
+    "symbol": "REALT-S-15350-GREYDALE-ST-DETROIT-MI",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/16564/small/15350-Greydale-hero-1.jpg?1624460101"
+  },
+  {
+    "address": "0x4d0da4e75d40bd7d9c4f7a292bf883bcdf38c45d",
+    "name": "RealT - 15373 Parkside St, Detroit, MI 48238",
+    "symbol": "REALT-S-15373-PARKSIDE-ST-DETROIT-MI",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/16562/small/15373-Parkside-hero-1.jpg?1624458568"
+  },
+  {
+    "address": "0x69d1b42b20f3ded07bec322253d0140b04cbb6f5",
+    "name": "RealT - 1542 S Ridgeway Ave, Chicago, IL 60623",
+    "symbol": "REALT-S-1542-S.RIDGEWAY-AVE-CHICAGO-IL",
+    "decimals": null,
+    "icon": "https://assets.coingecko.com/coins/images/16628/small/1542-S-Ridgeway-hero-2.5.jpg?1624553308"
+  },
+  {
+    "address": "0x8d1090df790ffafdaccda03015c05df3b4cc9c21",
+    "name": "RealT - 15753 Hartwell St, Detroit, MI 48227",
+    "symbol": "REALT-S-15753-HARTWELL-ST-DETROIT-MI",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/16623/small/15753-Hartwell-hero-2.jpg?1624551749"
+  },
+  {
+    "address": "0x175cbd54d38f58b530785e01471a2ec0d4596eb5",
+    "name": "RealT - 15770 Prest St, Detroit, MI 48227",
+    "symbol": "REALT-S-15770-PREST-ST-DETROIT-MI",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/16636/small/15770-Prest-hero-1.jpeg?1624557487"
+  },
+  {
+    "address": "0xfe17c3c0b6f38cf3bd8ba872bee7a18ab16b43fb",
+    "name": "RealT - 15777 Ardmore St, Detroit, MI 48227",
+    "symbol": "REALT-S-15777-ARDMORE-ST-DETROIT-MI",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/16542/small/15777-Ardmore-hero-2.jpg?1624371814"
+  },
+  {
+    "address": "0xf23b80216a10e6f0c0d3b5ad5c9349e9425cad40",
+    "name": "RealT - 15778 Manor St, Detroit, MI 48238",
+    "symbol": "REALT-S-15778-MANOR-ST-DETROIT-MI",
+    "decimals": null,
+    "icon": "https://assets.coingecko.com/coins/images/16689/small/15778-manor-hero-2.jpeg?1624636173"
+  },
+  {
+    "address": "0x7f940b5509a22e81d29167581bdeea3fa5a0abee",
+    "name": "RealT - 15784 Monte Vista St, Detroit, MI 48238",
+    "symbol": "REALT-S-15784-MONTE-VISTA-ST-DETROIT-MI",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/16673/small/15784-monte-vista-hero-1.jpeg?1624628466"
+  },
+  {
+    "address": "0xb3d3c1bbcef737204aadb4fa6d90e974bc262197",
+    "name": "RealT - 15796 Hartwell St, Detroit, MI 48227",
+    "symbol": "REALT-S-15796-HARTWELL-ST-DETROIT-MI",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/16607/small/15796-Hartwell-hero-1.jpeg?1624545151"
+  },
+  {
+    "address": "0xa9f30c907321718e655b74463ca665b690b78894",
+    "name": "RealT - 15860 Hartwell St, Detroit, MI 48227",
+    "symbol": "REALT-S-15860-HARTWELL-ST-DETROIT-MI",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/16595/small/15860-Hartwell-hero-1.jpg?1624540454"
+  },
+  {
+    "address": "0xf4657ab08681214bcb1893aa8e9c7613459250ec",
+    "name": "RealT - 1617 S Avers Ave, Chicago, IL 60623",
+    "symbol": "REALT-S-1617-S.AVERS-AVE-CHICAGO-IL",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/16675/small/1617-S-Avers-hero-1.jpg?1624628860"
+  },
+  {
+    "address": "0x021bb23a45e9fc824260435e670fc383b7b8cbbb",
+    "name": "RealT - 16200 Fullerton Ave, Detroit, MI 48227",
+    "symbol": "REALT-S-16200-FULLERTON-AVE-DETROIT-MI",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/16704/small/16200-Fullerton-HERO.jpeg?1624644084"
+  },
+  {
+    "address": "0x1fdb4015fd5e031c5641752c1e03b973ad5ea168",
+    "name": "RealT - 17500 Evergreen Rd, Detroit, MI 48219",
+    "symbol": "REALT-S-17500-EVERGREEN-RD-DETROIT-MI",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/16624/small/17500-Evergreen-hero-1.jpg?1624552051"
+  },
+  {
+    "address": "0x31aa5fa895fd186fde12347a6fcaf540875b6434",
+    "name": "RealT - 17809 Charest St, Detroit, MI 48212",
+    "symbol": "REALT-S-17809-CHAREST-ST-DETROIT-MI",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/16601/small/17809-Charest-hero-1.jpg?1624543227"
+  },
+  {
+    "address": "0x499a6c19f5537dd6005e2b5c6e1263103f558ba4",
+    "name": "RealT - 17813 Bradford St, Detroit, MI 48205",
+    "symbol": "REALT-S-17813-BRADFORD-ST-DETROIT-MI",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/16606/small/17813-Bradford-hero-1.jpeg?1624544519"
+  },
+  {
+    "address": "0x8fcb39a25e639c8fbd28e8a018227d6570e02352",
+    "name": "RealT - 1815 S Avers Ave, Chicago, IL 60623",
+    "symbol": "REALT-S-1815-S.AVERS-AVE-CHICAGO-IL",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/16674/small/1815-S-Avers-hero-1.5.jpg?1624628519"
+  },
+  {
+    "address": "0x9856c5ca15a4ac9c65aac090c38a9f39eb3b5eec",
+    "name": "RealT - 18273 Monte Vista St, Detroit, MI 48221",
+    "symbol": "REALT-S-18273-MONTE-VISTA-ST-DETROIT-MI",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/16665/small/18273-Monte-Vista-hero-1b.jpeg?1624626435"
+  },
+  {
+    "address": "0x46f8a600337dec5cab03aa9b8f67f1d5b788ce28",
+    "name": "RealT - 18433 Faust Ave, Detroit, MI, 48219",
+    "symbol": "REALT-S-18433-FAUST-AVE-DETROIT-MI",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/16684/small/Faust-1.jpeg?1624633417"
+  },
+  {
+    "address": "0x9a99f283e1f6c3b7f24901995624ef7b78e94471",
+    "name": "RealT -18466 Fielding St, Detroit, MI 48219",
+    "symbol": "REALT-S-18466-FIELDING-ST-DETROIT-MI",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/16663/small/18466-Fielding-hero-1.jpeg?1624625063"
+  },
+  {
+    "address": "0x75f06b482adbfb04b877d8ee683e2fcdf18ad153",
+    "name": "RealT - 18481 Westphalia St, Detroit, MI 48205",
+    "symbol": "REALT-S-18481-WESTPHALIA-ST-DETROIT-MI",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/16633/small/18481-Westphalia-hero-1.jpeg?1624554981"
+  },
+  {
+    "address": "0xba07997f594a52df179620284b52b50a4e66227d",
+    "name": "RealT - 18776 Sunderland Rd, Detroit, MI 48219",
+    "symbol": "REALT-S-18776-SUNDERLAND-RD-DETROIT-MI",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/16602/small/18776-Sunderland-hero-1.jpg?1624543588"
+  },
+  {
+    "address": "0x9eb90ec3faafc22092c9b91559fddde538042093",
+    "name": "RealT - 18900 Mansfield St, Detroit, MI 48235",
+    "symbol": "REALT-S-18900-MANSFIELD-ST-DETROIT-MI",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/16697/small/18900-Mansfield-flowers.jpeg?1624640555"
+  },
+  {
+    "address": "0xad91999f534f4075b00ba4231c018e57bdebb342",
+    "name": "RealT - 18983 Alcoy Ave, Detroit, MI 48205",
+    "symbol": "REALT-S-18983-ALCOY-AVE-DETROIT-MI",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/16619/small/18983-Alcoy-hero-1.jpg?1624550570"
+  },
+  {
+    "address": "0x280e9ed3b20c580a2f4219657bb9332d80bc01f1",
+    "name": "RealT - 19020 Rosemont Ave, Detroit, MI 48219",
+    "symbol": "REALT-S-19020-ROSEMONT-AVE-DETROIT-MI",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/16705/small/19020-Rosemont-hero-1.jpeg?1624644549"
+  },
+  {
+    "address": "0x33722ea778df197f1b7b1cf0b124d7a962181d65",
+    "name": "RealT - 19136 Tracey St, Detroit MI 48235",
+    "symbol": "REALT-S-19136-TRACEY-ST-DETROIT-MI",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/16706/small/19136-Tracey-hero-1.jpeg?1624644977"
+  },
+  {
+    "address": "0x4cc53ee5ef306a95d407321d4b4acc30814c04ee",
+    "name": "RealT - 19163 Mitchell St, Detroit, MI 48234",
+    "symbol": "REALT-S-19163-MITCHELL-ST-DETROIT-MI",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/16614/small/19163-Mitchell-hero-1.jpeg?1624548736"
+  },
+  {
+    "address": "0x211618fa0934910666f2c2731101f5a3ac013fd8",
+    "name": "RealT - 19200 Strasburg St, Detroit, MI 48205",
+    "symbol": "REALT-S-19200-STRASBURG-ST-DETROIT-MI",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/16620/small/19200-Strasburg-hero-1.jpg?1624550918"
+  },
+  {
+    "address": "0x830b0e9a5ecf36d0a886d21e1c20043cd2d16515",
+    "name": "RealT - 19201 Westphalia St, Detroit, MI 48205",
+    "symbol": "REALT-S-19201-WESTPHALIA-ST-DETROIT-MI",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/16613/small/19201-Westphalia-hero-1.jpeg?1624547689"
+  },
+  {
+    "address": "0x8a9f904b4ead6a97f3ab304d0d2196f5c602c807",
+    "name": "RealT - 19311 Keystone St, Detroit, MI 48234",
+    "symbol": "REALT-S-19311-KEYSTONE-ST-DETROIT-MI",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/16631/small/19311-Keystone-hero-1.jpeg?1624554016"
+  },
+  {
+    "address": "0x34ed9e71449529e034d0326cfbb3b5ccdca00cbc",
+    "name": "RealT - 19317 Gable St, Detroit, MI 48234",
+    "symbol": "REALT-S-19317-GABLE-ST-DETROIT-MI",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/16638/small/19317-Gable-hero-1.jpeg?1624558479"
+  },
+  {
+    "address": "0x24293ab20159cfc0f3d7c8727cd827fba63d4f64",
+    "name": "RealT - 19333 Moenart St, Detroit MI 48234",
+    "symbol": "REALT-S-19333-MOENART-ST-DETROIT-MI",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/16593/small/19333-Moenart-hero-1.jpg?1624539310"
+  },
+  {
+    "address": "0x3150f0ebc0efee280b5348b9c8c271ad44eb8b13",
+    "name": "RealT - 19596 Goulburn Ave, Detroit, MI 48205",
+    "symbol": "REALT-S-19596-GOULBURN-ST-DETROIT-MI",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/16608/small/19596-Goulburn-hero-1.jpg?1624544786"
+  },
+  {
+    "address": "0x311fc485f1fea0c8cc9b5c783e79f4313ddfa720",
+    "name": "RealT - 19996 Joann Ave, Detroit, MI 48205",
+    "symbol": "REALT-S-19996-JOANN-AVE-DETROIT-MI",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/16666/small/19996-Joanne-hero-1.jpg?1624626495"
+  },
+  {
+    "address": "0x4291f029b9e7acb02d49428458cf6fceac545f81",
+    "name": "1Hive Water",
+    "symbol": "WATER",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/26089/small/water_logo.png?1655778743"
+  },
+  {
+    "address": "0xeedc2f5f4d1226759b1acf9efa23a99661de6663",
+    "name": "RealT - 20200 Lesure St, Detroit, MI 48235",
+    "symbol": "REALT-S-20200-LESURE-ST-DETROIT-MI",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/16702/small/20200-Lesure-003.jpeg?1624643190"
+  },
+  {
+    "address": "0xf18cffb528eca0ea31d1d6b28bc80d2eca34d14d",
+    "name": "RealT - 25097 Andover Dr, Dearborn Heights, MI 48125",
+    "symbol": "REALT-S-25097-ANDOVER-DR-DEARBORN-HEIGHTS-MI",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/16698/small/Andover-25097.jpeg?1624641026"
+  },
+  {
+    "address": "0xce111a198eb04f388aceb78c40ced6daf1b0514a",
+    "name": "RealT - 272 N.E. 42nd Court, Deerfield Beach, FL 33064",
+    "symbol": "REALT-S-272-N.E.-42ND-COURT-DEERFIELD-BEACH-FL",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/16635/small/272-Court-1.jpeg?1624556789"
+  },
+  {
+    "address": "0xe255caf8893382465368b8e1cd4ef8436acf0ade",
+    "name": "RealT - 402 S Kostner Ave, Chicago, IL 60624",
+    "symbol": "REALT-S-402-S.KOSTNER-AVE-CHICAGO-IL",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/16627/small/402-S-Kostner-hero-1.jpg?1624553033"
+  },
+  {
+    "address": "0xd9e89bfebae447b42c1fa85c590716ec8820f737",
+    "name": "RealT - 4061 Grand St, Detroit, MI 48238",
+    "symbol": "REALT-S-4061-GRAND-ST-DETROIT-MI",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/16616/small/4061-Grand-hero-1.jpeg?1624551866"
+  },
+  {
+    "address": "0xa68b7779504b0ae372ddcc109f8786db9b91e93e",
+    "name": "RealT - 4340 East 71, Cleveland, OH 44105",
+    "symbol": "REALT-S-4340-EAST-71-CLEVELAND-OH",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/16681/small/4340-East-71-front.jpeg?1624631910"
+  },
+  {
+    "address": "0x96700ffae33c651bc329c3f3fbfe56e1f291f117",
+    "name": "RealT - 4380 Beaconsfield St, Detroit, MI 48224",
+    "symbol": "REALT-S-4380-BEACONSFIELD-ST-DETROIT-MI",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/16603/small/4380-Beaconsfield-hero-1.jpeg?1624543909"
+  },
+  {
+    "address": "0xefe82d6baf0db71f92889eb9d00721bd49121316",
+    "name": "RealT - 4680 Buckingham Ave, Detroit, MI 48224",
+    "symbol": "REALT-S-4680-BUCKINGHAM-AVE-DETROIT-MI",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/16629/small/4680-Buckingham-hero-1.jpeg?1624553513"
+  },
+  {
+    "address": "0xe7b6de709ffc3bd237c2f2c800e1002f97a760f3",
+    "name": "RealT - 4852-4854 W Cortez St, Chicago, IL 60651",
+    "symbol": "REALT-S-4852-4854-W.CORTEZ-ST-CHICAGO-IL",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/16670/small/Cortez-facade-1.jpg?1624627398"
+  },
+  {
+    "address": "0xa137d82197ea4cdfd5f008a91ba816b8324f59e1",
+    "name": "RealT - 5601 S Wood St, Chicago, IL 60636",
+    "symbol": "REALT-S-5601-S.WOOD-ST-CHICAGO-IL",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/16605/small/5601-S-Wood-hero-1.jpg?1624544382"
+  },
+  {
+    "address": "0xa29ae272bc89e5f315b2793925f700045f845d82",
+    "name": "RealT - 581-587 Jefferson Ave, Rochester, NY 14611",
+    "symbol": "REALT-S-581-587-JEFFERSON-AVE-ROCHESTER-NY",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/16637/small/571-jefferson-corner-1.1.jpg?1624557964"
+  },
+  {
+    "address": "0x6db6d540f5614e6bab7475af3f430f46a0b083e2",
+    "name": "RealT - 5942 Audubon Rd, Detroit, MI 48224",
+    "symbol": "REALT-S-5942-AUDUBON-RD-DETROIT-MI",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/16699/small/5942-Audubon-HERO-2.jpeg?1624641512"
+  },
+  {
+    "address": "0xd08d2b199e9e5df407427d4085877d1fdff3b1d6",
+    "name": "RealT - 6923 Greenview Ave, Detroit, MI 48228",
+    "symbol": "REALT-S-6923-GREENVIEW-AVE-DETROIT-MI",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/16676/small/6923-Greenview.jpeg?1624629085"
+  },
+  {
+    "address": "0x92d31e19f88597f368825ba16410f263a844527a",
+    "name": "RealT - 8181 Bliss St, Detroit, MI 48234",
+    "symbol": "REALT-S-8181-BLISS-ST-DETROIT-MI",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/16566/small/8181-Bliss-hero-1.jpg?1624461101"
+  },
+  {
+    "address": "0x76dbeb740ecd1f3b052a9afa302abc7eb4fb5390",
+    "name": "RealT - 9133 Devonshire Rd, Detroit, MI 48224",
+    "symbol": "REALT-S-9133-DEVONSHIRE-RD-DETROIT-MI",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/16683/small/9133-Devonshire-hero.jpeg?1624632898"
+  },
+  {
+    "address": "0x3c56d5e887d8fa7ae1ba65bf7eccc25ec09eaf18",
+    "name": "RealT - 9165 Kensington Ave, Detroit, MI 48224",
+    "symbol": "REALT-S-9165-KENSINGTON-AVE-DETROIT-MI",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/16687/small/9165-Kensington-hero-1.jpeg?1624634948"
+  },
+  {
+    "address": "0xa69d7d4ddf397f3d1e7ebaf108555d1107b3b117",
+    "name": "RealT - 9166 Devonshire Rd, Detroit MI 48224",
+    "symbol": "REALT-S-9166-DEVONSHIRE-RD-DETROIT-MI",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/16690/small/Devonshire-3x.jpeg?1624636640"
+  },
+  {
+    "address": "0x806690b7a093d2cf6419a515abedb7f28595bc5e",
+    "name": "RealT - 9169 Boleyn St, Detroit, MI, 48224",
+    "symbol": "REALT-S-9169-BOLEYN-ST-DETROIT-MI",
+    "decimals": null,
+    "icon": "https://assets.coingecko.com/coins/images/16691/small/Boleyn-hero.jpeg?1624637832"
+  },
+  {
+    "address": "0x23684569c0636c9aea246551879d457d0a0e6f58",
+    "name": "RealT - 9336 Patton St, Detroit, MI 48228",
+    "symbol": "REALT-S-9336-PATTON-ST-DETROIT-MI",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/16701/small/9336-Patton-HERO-2.jpeg?1624642655"
+  },
+  {
+    "address": "0x750fa12ae51d1515c893c1aaabe2c135937a2c8b",
+    "name": "RealT - 9465 Beaconsfield St, Detroit, MI 48224",
+    "symbol": "REALT-S-9465-BEACONSFIELD-ST-DETROIT-MI",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/16707/small/9465-Beaconsfield-hero-1c.jpeg?1624645510"
+  },
+  {
+    "address": "0x1e001730a23c7ebaff35bc8bc90da5a9b20804a4",
+    "name": "RealT - 9481 Wayburn St, Detroit, MI 48224",
+    "symbol": "REALT-S-9481-WAYBURN-ST-DETROIT-MI",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/16609/small/9481-Wayburn-hero-1.jpg?1624545084"
+  },
+  {
+    "address": "0x73bde888664df8ddfd156b52e6999eeabab57c94",
+    "name": "RealT - 9717 Everts St, Detroit, MI 48224",
+    "symbol": "REALT-S-9717-EVERTS-ST-DETROIT-MI",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/16612/small/9717-Everts-hero-1.jpeg?1624546272"
+  },
+  {
+    "address": "0xa2b2ae397492c7ed8a4c1e751ac72d2b59947e6b",
+    "name": "RealT - 9920 Bishop St, Detroit, MI 48224",
+    "symbol": "REALT-S-9920-BISHOP-ST-DETROIT-MI",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/16615/small/9920-Bishop-hero-1.jpg?1624549554"
+  },
+  {
+    "address": "0x3a97704a1b25f08aa230ae53b352e2e72ef52843",
+    "name": "Agave",
+    "symbol": "AGVE",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/14146/small/agve.png?1614659384"
+  },
+  {
+    "address": "0xd51e1ddd116fff9a71c1b8feeb58113afa2b4d93",
+    "name": "AMIS",
+    "symbol": "AMIS",
+    "decimals": 9,
+    "icon": "https://assets.coingecko.com/coins/images/8445/small/amis-newlogo.png?1559633345"
+  },
+  {
+    "address": "0xdfc20ae04ed70bd9c7d720f449eedae19f659d65",
+    "name": "Badger DAO",
+    "symbol": "BADGER",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/13287/small/badger_dao_logo.jpg?1607054976"
+  },
+  {
+    "address": "0xdd96b45877d0e8361a4ddb732da741e97f3191ff",
+    "name": "Binance USD",
+    "symbol": "BUSD",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/9576/small/BUSD.png?1568947766"
+  },
+  {
+    "address": "0xa899e4476ff5da39dcd9ddec7a6e2c651d8614bf",
+    "name": "Bitcoin BR",
+    "symbol": "BTCBR",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/21205/small/btcbr.png?1661666691"
+  },
+  {
+    "address": "0x83ff60e2f93f8edd0637ef669c69d5fb4f64ca8e",
+    "name": "BrightID",
+    "symbol": "BRIGHT",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/18415/small/bright.PNG?1631841211"
+  },
+  {
+    "address": "0xe2e73a1c69ecf83f464efce6a5be353a37ca09b2",
+    "name": "Chainlink",
+    "symbol": "LINK",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/877/small/chainlink-new-logo.png?1547034700"
+  },
+  {
+    "address": "0x8b8407c6184f1f0fd1082e83d6a3b8349caced12",
+    "name": "Circuits of Value",
+    "symbol": "COVAL",
+    "decimals": 8,
+    "icon": "https://assets.coingecko.com/coins/images/588/small/coval-logo.png?1599493950"
+  },
+  {
+    "address": "0x177127622c4a00f3d409b75571e12cb3c8973d3c",
+    "name": "CoW Protocol",
+    "symbol": "COW",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/24384/small/cow.png?1660960589"
+  },
+  {
+    "address": "0x44fa8e6f47987339850636f88629646662444217",
+    "name": "Dai",
+    "symbol": "DAI",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/9956/small/4943.png?1636636734"
+  },
+  {
+    "address": "0xb0c5f3100a4d9d9532a4cfd68c55f1ae8da987eb",
+    "name": "DAOhaus",
+    "symbol": "HAUS",
+    "decimals": 35,
+    "icon": "https://assets.coingecko.com/coins/images/14551/small/jN3kkqke_400x400.png?1616990048"
+  },
+  {
+    "address": "0x97edc0e345fbbbd8460847fcfa3bc2a13bf8641f",
+    "name": "DAOSquare",
+    "symbol": "RICE",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/19084/small/tw5gu1dW_400x400.jpeg?1634389807"
+  },
+  {
+    "address": "0xd3d47d5578e55c880505dc40648f7f9307c3e7a8",
+    "name": "DeFi Pulse Index",
+    "symbol": "DPI",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/12465/small/defi_pulse_index_set.png?1600051053"
+  },
+  {
+    "address": "0x512a2eb0277573ae9be0d48c782590b624048fdf",
+    "name": "Meme",
+    "symbol": "MEME",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/12140/small/meme-coin.jpeg?1619249191"
+  },
+  {
+    "address": "0xfbdd194376de19a88118e84e279b977f165d01b8",
+    "name": "DeHive",
+    "symbol": "DHV",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/14926/small/logo_200x200.png?1626181831"
+  },
+  {
+    "address": "0x524b969793a64a602342d89bc2789d43a016b13a",
+    "name": "Donut",
+    "symbol": "DONUT",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/7538/small/Donut.png?1548234345"
+  },
+  {
+    "address": "0xb90d6bec20993be5d72a5ab353343f7a0281f158",
+    "name": "DXdao",
+    "symbol": "DXD",
+    "decimals": null,
+    "icon": "https://assets.coingecko.com/coins/images/11148/small/dxdao.png?1607999331"
+  },
+  {
+    "address": "0xeeeeeb57642040be42185f49c52f7e9b38f8eeee",
+    "name": "Elk Finance",
+    "symbol": "ELK",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/17813/small/elk.png?1629336971"
+  },
+  {
+    "address": "0x6a8cb6714b1ee5b471a7d2ec4302cb4f5ff25ec2",
+    "name": "Energy Web",
+    "symbol": "EWT",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/10886/small/R9gQTJV__400x400.png?1585604557"
+  },
+  {
+    "address": "0xd3226b12e6188133b19ac0419f34b0ed5b10f069",
+    "name": "EsportsRef",
+    "symbol": "ESR",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/23280/small/esr.png?1643530883"
+  },
+  {
+    "address": "0xb17d999e840e0c1b157ca5ab8039bd958b5fa317",
+    "name": "Etho Protocol",
+    "symbol": "ETHO",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/5194/small/ether1new-transparent.png?1578298993"
+  },
+  {
+    "address": "0x48b1b0d077b4919b65b4e4114806dd803901e1d9",
+    "name": "Etherisc DIP",
+    "symbol": "DIP",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/4586/small/dip.png?1547039863"
+  },
+  {
+    "address": "0xec3f3e6d7907acda3a7431abd230196cda3fbb19",
+    "name": "EthicHub",
+    "symbol": "ETHIX",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/3031/small/ETHIX_icon_256x256-256.png?1622195164"
+  },
+  {
+    "address": "0x2bf2ba13735160624a0feae98f6ac8f70885ea61",
+    "name": "Fraction",
+    "symbol": "FRACTION",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/15099/small/fraction.png?1619691519"
+  },
+  {
+    "address": "0x270de58f54649608d316faa795a9941b355a2bd0/token-transfers",
+    "name": "Freedom Reserve",
+    "symbol": "FR",
+    "decimals": null,
+    "icon": "https://assets.coingecko.com/coins/images/13342/small/J6uNL2FS_400x400.jpg?1607589046"
+  },
+  {
+    "address": "0x4f4f9b8d5b4d0dc10506e5551b0513b61fd59e75",
+    "name": "Giveth",
+    "symbol": "GIV",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/21792/small/GIVToken_200x200.png?1640055088"
+  },
+  {
+    "address": "0x9c58bacc331c9aa871afd802db6379a98e80cedb",
+    "name": "Gnosis",
+    "symbol": "GNO",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/662/small/logo_square_simple_300px.png?1609402668"
+  },
+  {
+    "address": "0x6ab6d61428fde76768d7b45d8bfeec19c6ef91a8",
+    "name": "GTON CAPITAL",
+    "symbol": "GTON",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/15728/small/GC_logo_200x200.png?1642669327"
+  },
+  {
+    "address": "0x71850b7e9ee3f13ab46d67167341e4bdc905eef9",
+    "name": "Honey",
+    "symbol": "HNY",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/12895/small/hnys.png?1614100588"
+  },
+  {
+    "address": "0xd057604a14982fe8d88c5fc25aac3267ea142a08",
+    "name": "HOPR",
+    "symbol": "HOPR",
+    "decimals": null,
+    "icon": "https://assets.coingecko.com/coins/images/14061/small/Shared_HOPR_logo_512px.png?1614073468"
+  },
+  {
+    "address": "0x9fb1d52596c44603198fb0aee434fac3a679f702",
+    "name": "Jarvis Synthetic Euro",
+    "symbol": "JEUR",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/15725/small/jEUR.png?1634046044"
+  },
+  {
+    "address": "0x2d5563da42b06fbbf9c67b7dc073cf6a7842239e",
+    "name": "Jarvis Synthetic Swiss Franc",
+    "symbol": "JCHF",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/15727/small/jCHF.png?1634046084"
+  },
+  {
+    "address": "0x417602f4fbdd471a431ae29fb5fe0a681964c11b",
+    "name": "JPY Coin v1",
+    "symbol": "JPYC",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/17277/small/WoZ8rruL_400x400.png?1627016492"
+  },
+  {
+    "address": "0x431d5dff03120afa4bdf332c61a6e1766ef37bdb",
+    "name": "JPY Coin",
+    "symbol": "JPYC",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/25971/small/WoZ8rruL_400x400.png?1655102508"
+  },
+  {
+    "address": "0x37b60f4e9a31a64ccc0024dce7d0fd07eaa0f7b3",
+    "name": "Kleros",
+    "symbol": "PNK",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/3833/small/kleros.png?1547975322"
+  },
+  {
+    "address": "0x1698cd22278ef6e7c0df45a8dea72edbea9e42aa",
+    "name": "Levin",
+    "symbol": "LEVIN",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/16004/small/JHqkC8Z.png?1622594623"
+  },
+  {
+    "address": "0x3f56e0c36d275367b8c502090edf38289b3dea0d",
+    "name": "MAI",
+    "symbol": "MIMATIC",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/15264/small/mimatic-red.png?1620281018"
+  },
+  {
+    "address": "0x63e62989d9eb2d37dfdb1f93a22f063635b07d51",
+    "name": "Minerva Wallet",
+    "symbol": "MIVA",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/14732/small/MIVA-Token_200x200.png?1617958701"
+  },
+  {
+    "address": "0xfa57aa7beed63d03aaf85ffd1753f5f6242588fb",
+    "name": "Mt Pelerin Shares",
+    "symbol": "MPS",
+    "decimals": 0,
+    "icon": "https://assets.coingecko.com/coins/images/11471/small/MPS.png?1590319120"
+  },
+  {
+    "address": "0x981fb9ba94078a2275a8fc906898ea107b9462a8",
+    "name": "Panvala Pan",
+    "symbol": "PAN",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/9543/small/pan-logo.png?1568674599"
+  },
+  {
+    "address": "0xb5d592f85ab2d955c25720ebe6ff8d4d1e1be300",
+    "name": "Particle",
+    "symbol": "PRTCLE",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/14395/small/unknown.png?1648702694"
+  },
+  {
+    "address": "0x18e9262e68cc6c6004db93105cc7c001bb103e49",
+    "name": "Raid",
+    "symbol": "RAID",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/18133/small/raid_200_oswlvz.png?1630631876"
+  },
+  {
+    "address": "0x6f442da588232dc57bf0096e8de48d6961d5cc83",
+    "name": "RealT - 13895 Saratoga St, Detroit, MI 48205",
+    "symbol": "REALT-S-13895-SARATOGA-ST-DETROIT-MI",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/16599/small/13895-Saratoga-hero-1.jpeg?1624541955"
+  },
+  {
+    "address": "0x21a42669643f45bc0e086b8fc2ed70c23d67509d",
+    "name": "ShapeShift FOX",
+    "symbol": "FOX",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/9988/small/FOX.png?1574330622"
+  },
+  {
+    "address": "0x6ac78efae880282396a335ca2f79863a1e6831d4",
+    "name": "StakeWise Reward GNO",
+    "symbol": "RGNO",
+    "decimals": 18,
+    "icon": "missing_small.png"
+  },
+  {
+    "address": "0x256eb8a51f382650b2a1e946b8811953640ee47d",
+    "name": "Streamr",
+    "symbol": "DATA",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/17869/small/DATA_new_symbol_3x.png?1629692324"
+  },
+  {
+    "address": "0x532801ed6f82fffd2dab70a19fc2d7b2772c4f4b",
+    "name": "Swapr",
+    "symbol": "SWPR",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/18740/small/swapr.jpg?1633516501"
+  },
+  {
+    "address": "0x84e2c67cbefae6b5148fca7d02b341b12ff4b5bb",
+    "name": "Swash",
+    "symbol": "SWASH",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/18774/small/swash.png?1634089759"
+  },
+  {
+    "address": "0xc45b3c1c24d5f54e7a2cf288ac668c74dd507a84",
+    "name": "Symmetric",
+    "symbol": "SYMM",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/18525/small/SYMM-Coin-2.png?1632276841"
+  },
+  {
+    "address": "0x4ecaba5870353805a9f068101a40e0f32ed605c6",
+    "name": "Tether",
+    "symbol": "USDT",
+    "decimals": 6,
+    "icon": "https://assets.coingecko.com/coins/images/325/small/Tether-logo.png?1598003707"
+  },
+  {
+    "address": "0x5df8339c5e282ee48c0c7ce8a7d01a73d38b3b27",
+    "name": "Engineering Commons",
+    "symbol": "TEC",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/18233/small/72481541.png?1643198626"
+  },
+  {
+    "address": "0x364b5975385b4de226cf450df82d7ed69902ac5a",
+    "name": "TORG",
+    "symbol": "TORG",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/17596/small/TORG_Logo_200x200.png?1628586056"
+  },
+  {
+    "address": "0x479e32cdff5f216f93060700c711d1cc8e811a6b",
+    "name": "Trips Community",
+    "symbol": "TRIPS",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/14648/small/trips_32.png?1617491133"
+  },
+  {
+    "address": "0x703120f2f2011a0d03a03a531ac0e84e81f15989",
+    "name": "UNCL",
+    "symbol": "UNCL",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/13102/small/uncl_logo.png?1605230945"
+  },
+  {
+    "address": "0x0116e28b43a358162b96f70b4de14c98a4465f25",
+    "name": "UniCrypt",
+    "symbol": "UNCX",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/12871/small/unicrypt_logo.png?1603178739"
+  },
+  {
+    "address": "0x4537e328bf7e4efa29d05caea260d7fe26af9d74",
+    "name": "Uniswap",
+    "symbol": "UNI",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/12504/small/uniswap-uni.png?1600306604"
+  },
+  {
+    "address": "0xddafbb505ad214d7b80b1f830fccc89b60fb7a83",
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png?1547042389"
+  },
+  {
+    "address": "0x6a023ccd1ff6f2045c3309768ead9e68f978f6e1",
+    "name": "WETH",
+    "symbol": "WETH",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/2518/small/weth.png?1628852295"
+  },
+  {
+    "address": "0x8e5bbbb09ed1ebde8674cda39a0c169401db4252",
+    "name": "Wrapped Bitcoin",
+    "symbol": "WBTC",
+    "decimals": 8,
+    "icon": "https://assets.coingecko.com/coins/images/7598/small/wrapped_bitcoin_wbtc.png?1548822744"
+  },
+  {
+    "address": "0xe91d153e0b41518a2ce8dd3d7944fa863463a97d",
+    "name": "Wrapped XDAI",
+    "symbol": "WXDAI",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/14584/small/wrapped-xdai-logo.png?1641888881"
+  },
+  {
+    "address": "",
+    "name": "XDAI",
+    "symbol": "XDAI",
+    "decimals": null,
+    "icon": "https://assets.coingecko.com/coins/images/11062/small/Identity-Primary-DarkBG.png?1638372986"
+  },
+  {
+    "address": "0x38fb649ad3d6ba1113be5f57b927053e97fc5bf7",
+    "name": "xDai Native Comb",
+    "symbol": "XCOMB",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/16012/small/logo.png?1622603137"
+  },
+  {
+    "address": "0xb7d311e2eb55f2f68a9440da38e7989210b9a05e",
+    "name": "STAKE",
+    "symbol": "STAKE",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/11061/small/xdai.png?1587714165"
+  },
+  {
+    "address": "0xc25af3123d2420054c8fcd144c21113aa2853f39",
+    "name": "Xion Finance",
+    "symbol": "XGT",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/14039/small/xgt.png?1613965612"
+  },
+  {
+    "address": "0xbf65bfcb5da067446cee6a706ba3fe2fb1a9fdfd",
+    "name": "yearn.finance",
+    "symbol": "YFI",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/11849/small/yfi-192x192.png?1598325330"
+  }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "address": "0x3a93bd0fa10050d206370eea53276542a105c885",
+    "name": "Boba Brewery",
+    "symbol": "BRE",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/24953/small/bre.png?1649507380"
+  },
+  {
+    "address": "0x121636c43e96d97ab00b6c6994cddebef27de1c7",
+    "name": "BobaDoge",
+    "symbol": "BDOGE",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/20341/small/K4orzzy.png?1636941544"
+  },
+  {
+    "address": "0xa18bf3994c0cc6e3b63ac420308e5383f53120d7",
+    "name": "Boba Network",
+    "symbol": "BOBA",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/20285/small/BOBA.png?1636811576"
+  },
+  {
+    "address": "0xe48703f5adfe59d271d951c2e602f654b86736e7",
+    "name": "Gin Finance",
+    "symbol": "GIN",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/25785/small/logo-04.png?1653882271"
+  },
+  {
+    "address": "0x618cc6549ddf12de637d46cddadafc0c2951131c",
+    "name": "Kōyō",
+    "symbol": "KYO",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/25801/small/logo.png?1653970997"
+  },
+  {
+    "address": "0x3f56e0c36d275367b8c502090edf38289b3dea0d",
+    "name": "MAI",
+    "symbol": "MIMATIC",
+    "decimals": null,
+    "icon": "https://assets.coingecko.com/coins/images/15264/small/mimatic-red.png?1620281018"
+  },
+  {
+    "address": "0xe1e2ec9a85c607092668789581251115bcbd20de",
+    "name": "OMG Network",
+    "symbol": "OMG",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/776/small/OMG_Network.jpg?1591167168"
+  },
+  {
+    "address": "0x5008f837883ea9a07271a1b5eb0658404f5a9610",
+    "name": "OolongSwap",
+    "symbol": "OLO",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/20637/small/Capture.PNG?1637427078"
+  },
+  {
+    "address": "0xf08ad7c3f6b1c6843ba027ad54ed8ddb6d71169b",
+    "name": "Shibui DAO",
+    "symbol": "SHIBUI",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/24871/small/CoinGecko.png?1649214169"
+  },
+  {
+    "address": "0x5de1677344d3cb0d7d465c10b72a8f60699c062d",
+    "name": "Tether",
+    "symbol": "USDT",
+    "decimals": 6,
+    "icon": "https://assets.coingecko.com/coins/images/325/small/Tether-logo.png?1598003707"
+  },
+  {
+    "address": "0x375488f097176507e39b9653b88fdc52cde736bf",
+    "name": "UniDex",
+    "symbol": "UNIDX",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/13178/small/unidx.png?1634888975"
+  },
+  {
+    "address": "0x66a2a913e447d6b4bf33efbec43aaef87890fbbc",
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "decimals": 6,
+    "icon": "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png?1547042389"
+  },
+  {
+    "address": "0xdeaddeaddeaddeaddeaddeaddeaddeaddead0000",
+    "name": "WETH",
+    "symbol": "WETH",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/2518/small/weth.png?1628852295"
+  },
+  {
+    "address": "0xdc0486f8bf31df57a952bcd3c1d3e166e3d9ec8b",
+    "name": "Wrapped Bitcoin",
+    "symbol": "WBTC",
+    "decimals": 8,
+    "icon": "https://assets.coingecko.com/coins/images/7598/small/wrapped_bitcoin_wbtc.png?1548822744"
+  }
+]

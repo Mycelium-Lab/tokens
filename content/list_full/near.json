@@ -1,0 +1,254 @@
+[
+  {
+    "address": "a4ef4b0b23c1fc81d3f9ecf93510e64f58a4a016.factory.bridge.near",
+    "name": "1MillionNFTs",
+    "symbol": "1MIL",
+    "decimals": null,
+    "icon": "https://assets.coingecko.com/coins/images/14990/small/4kQ8hRnU_400x400.jpg?1619334818"
+  },
+  {
+    "address": "abr.a11bd.near",
+    "name": "Allbridge",
+    "symbol": "ABR",
+    "decimals": null,
+    "icon": "https://assets.coingecko.com/coins/images/18690/small/abr.png?1640742053"
+  },
+  {
+    "address": "atocha-token.near",
+    "name": "Atocha Protocol",
+    "symbol": "ATO",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/26183/small/atocha_icon_1142x1142.png?1656383611"
+  },
+  {
+    "address": "aaaaaa20d9e0e2461697782ef11675f668207961.factory.bridge.near",
+    "name": "Aurora",
+    "symbol": "AURORA",
+    "decimals": null,
+    "icon": "https://assets.coingecko.com/coins/images/20582/small/aurora.jpeg?1637250883"
+  },
+  {
+    "address": "token.burrow.near",
+    "name": "Burrow",
+    "symbol": "BRRR",
+    "decimals": null,
+    "icon": "https://assets.coingecko.com/coins/images/24856/small/burrow.PNG?1649140905"
+  },
+  {
+    "address": "cusd.token.a11bd.near",
+    "name": "Celo Dollar",
+    "symbol": "CUSD",
+    "decimals": null,
+    "icon": "https://assets.coingecko.com/coins/images/13161/small/icon-celo-dollar-color-1000-circle-cropped.png?1605771134"
+  },
+  {
+    "address": "514910771af9ca656af840dff83e8264ecf986ca.factory.bridge.near",
+    "name": "Chainlink",
+    "symbol": "LINK",
+    "decimals": null,
+    "icon": "https://assets.coingecko.com/coins/images/877/small/chainlink-new-logo.png?1547034700"
+  },
+  {
+    "address": "06a00715e6f92210af9d7680b584931faf71a833.factory.bridge.near",
+    "name": "Chronicle",
+    "symbol": "XNL",
+    "decimals": null,
+    "icon": "https://assets.coingecko.com/coins/images/18413/small/xnl_logo.png?1633517024"
+  },
+  {
+    "address": "6b175474e89094c44da98b954eedeac495271d0f.factory.bridge.near",
+    "name": "Dai",
+    "symbol": "DAI",
+    "decimals": null,
+    "icon": "https://assets.coingecko.com/coins/images/9956/small/4943.png?1636636734"
+  },
+  {
+    "address": "dbio.near",
+    "name": "DeBio Network",
+    "symbol": "DBIO",
+    "decimals": 0,
+    "icon": "https://assets.coingecko.com/coins/images/21562/small/dbio.png?1639470520"
+  },
+  {
+    "address": "",
+    "name": "DEIP Protocol",
+    "symbol": "DEIP",
+    "decimals": null,
+    "icon": "https://assets.coingecko.com/coins/images/25505/small/12738.png?1652150136"
+  },
+  {
+    "address": "fusotao-token.near",
+    "name": "Fusotao",
+    "symbol": "TAO",
+    "decimals": null,
+    "icon": "https://assets.coingecko.com/coins/images/26743/small/a4JTO1De_400x400.jpeg?1660005921"
+  },
+  {
+    "address": "de30da39c46104798bb5aa3fe8b9e0e1f348163f.factory.bridge.near",
+    "name": "Gitcoin",
+    "symbol": "GTC",
+    "decimals": null,
+    "icon": "https://assets.coingecko.com/coins/images/15810/small/gitcoin.png?1621992929"
+  },
+  {
+    "address": "d9c2d319cd7e6177336b0a9c93c21cb48d84fb54.factory.bridge.near",
+    "name": "HAPI",
+    "symbol": "HAPI",
+    "decimals": null,
+    "icon": "https://assets.coingecko.com/coins/images/14298/small/R9i2HjAL_400x400.jpg?1615332438"
+  },
+  {
+    "address": "token.jumbo_exchange.near",
+    "name": "Jumbo Exchange",
+    "symbol": "JUMBO",
+    "decimals": null,
+    "icon": "https://assets.coingecko.com/coins/images/25558/small/jumbo.png?1652438863"
+  },
+  {
+    "address": "linear-protocol.near",
+    "name": "LiNEAR Protocol",
+    "symbol": "LINEAR",
+    "decimals": null,
+    "icon": "https://assets.coingecko.com/coins/images/25210/small/sUld7aEX_400x400.png?1650855376"
+  },
+  {
+    "address": "marmaj.tkn.near",
+    "name": "Marmaj",
+    "symbol": "MARMAJ",
+    "decimals": null,
+    "icon": "https://assets.coingecko.com/coins/images/18457/small/marmaj_token_200x200.png?1632107763"
+  },
+  {
+    "address": "myriadcore.near",
+    "name": "Myriad Social",
+    "symbol": "MYRIA",
+    "decimals": null,
+    "icon": "https://assets.coingecko.com/coins/images/24685/small/-jHXi6y5_400x400.jpg?1648589419"
+  },
+  {
+    "address": "near",
+    "name": "NEAR Protocol",
+    "symbol": "NEAR",
+    "decimals": null,
+    "icon": "https://assets.coingecko.com/coins/images/10365/small/near_icon.png?1601359077"
+  },
+  {
+    "address": "f5cfbc74057c610c8ef151a439252680ac68c6dc.factory.bridge.near",
+    "name": "Octopus Network",
+    "symbol": "OCT",
+    "decimals": 0,
+    "icon": "https://assets.coingecko.com/coins/images/18025/small/octopus_network.png?1630290273"
+  },
+  {
+    "address": "token.paras.near",
+    "name": "Paras",
+    "symbol": "PARAS",
+    "decimals": null,
+    "icon": "https://assets.coingecko.com/coins/images/18742/small/white-with-bg.png?1633314235"
+  },
+  {
+    "address": "52a047ee205701895ee06a375492490ec9c597ce.factory.bridge.near",
+    "name": "PulseMarkets",
+    "symbol": "PULSE",
+    "decimals": null,
+    "icon": "https://assets.coingecko.com/coins/images/19011/small/photo_2021-11-11_06-24-09.jpg?1636616734"
+  },
+  {
+    "address": "token.v2.ref-finance.near",
+    "name": "Ref Finance",
+    "symbol": "REF",
+    "decimals": 0,
+    "icon": "https://assets.coingecko.com/coins/images/18279/small/ref.png?1631238807"
+  },
+  {
+    "address": "token.stlb.near",
+    "name": "SeatlabNFT",
+    "symbol": "SEAT",
+    "decimals": null,
+    "icon": "https://assets.coingecko.com/coins/images/27665/small/seat.png?1665139791"
+  },
+  {
+    "address": "token.skyward.near",
+    "name": "Skyward Finance",
+    "symbol": "SKYWARD",
+    "decimals": 0,
+    "icon": "https://assets.coingecko.com/coins/images/18285/small/favicon_%285%29.png?1631253357"
+  },
+  {
+    "address": "meta-pool.near",
+    "name": "Staked NEAR",
+    "symbol": "STNEAR",
+    "decimals": 0,
+    "icon": "https://assets.coingecko.com/coins/images/24250/small/st-NEAR-token-white-dark-purple-circle.png?1657601407"
+  },
+  {
+    "address": "token.sweat",
+    "name": "Sweatcoin - Sweat Economy",
+    "symbol": "SWEAT",
+    "decimals": null,
+    "icon": "https://assets.coingecko.com/coins/images/25057/small/fhD9Xs16_400x400.jpg?1649947000"
+  },
+  {
+    "address": "dac17f958d2ee523a2206206994597c13d831ec7.factory.bridge.near",
+    "name": "Tether",
+    "symbol": "USDT",
+    "decimals": null,
+    "icon": "https://assets.coingecko.com/coins/images/325/small/Tether-logo.png?1598003707"
+  },
+  {
+    "address": "a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.factory.bridge.near",
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "decimals": null,
+    "icon": "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png?1547042389"
+  },
+  {
+    "address": "usn",
+    "name": "USN",
+    "symbol": "USN",
+    "decimals": 18,
+    "icon": "https://assets.coingecko.com/coins/images/24930/small/download.png?1649395750"
+  },
+  {
+    "address": "utopia.secretskelliessociety.near",
+    "name": "Secret Skellies Society Utopia",
+    "symbol": "UTO",
+    "decimals": 0,
+    "icon": "https://assets.coingecko.com/coins/images/24292/small/cOuu2J0f_400x400.jpg?1647264945"
+  },
+  {
+    "address": "c02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.factory.bridge.near",
+    "name": "WETH",
+    "symbol": "WETH",
+    "decimals": null,
+    "icon": "https://assets.coingecko.com/coins/images/2518/small/weth.png?1628852295"
+  },
+  {
+    "address": "4691937a7508860f876c9c0a2a617e7d9e945d4b.factory.bridge.near",
+    "name": "WOO Network",
+    "symbol": "WOO",
+    "decimals": null,
+    "icon": "https://assets.coingecko.com/coins/images/12921/small/w2UiemF__400x400.jpg?1603670367"
+  },
+  {
+    "address": "2260fac5e5542a773aa44fbcfedf7c193bc2c599.factory.bridge.near",
+    "name": "Wrapped Bitcoin",
+    "symbol": "WBTC",
+    "decimals": null,
+    "icon": "https://assets.coingecko.com/coins/images/7598/small/wrapped_bitcoin_wbtc.png?1548822744"
+  },
+  {
+    "address": "wrap.near",
+    "name": "Wrapped Near",
+    "symbol": "WNEAR",
+    "decimals": null,
+    "icon": "https://assets.coingecko.com/coins/images/18280/small/EX4mrWMW_400x400.jpg?1631244046"
+  },
+  {
+    "address": "sol.token.a11bd.near",
+    "name": "Wrapped Solana",
+    "symbol": "SOL",
+    "decimals": null,
+    "icon": "https://assets.coingecko.com/coins/images/21629/small/solana.jpg?1639626543"
+  }
+]
