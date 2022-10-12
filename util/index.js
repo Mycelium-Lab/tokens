@@ -1,6 +1,9 @@
 const fs = require('fs')
 
-// In case reformatting is needed
+/**
+ * Reformat json files in a directory
+ * @param {string} dirName - directory where files are located
+ */
 exports.reformatFiles = (dirName) => {
   const dir = `./content/${dirName}`
   const files = fs.readdirSync(dir)
@@ -15,10 +18,20 @@ exports.reformatFiles = (dirName) => {
   })
 }
 
+/**
+ * Map object of tokens to list of tokens
+ * @param {object} globalObject
+ * @returns {[object]} - list of complete token objects
+ */
 exports.mapAddressesIntoList = (globalObject) =>
   Object.entries(globalObject).map(([address, rest]) => ({ address, ...rest }))
 
-exports.mapAddressesOutOfLists = (globalList) =>
+/**
+ * Map list of token object to address-based object
+ * @param {[object]} globalList
+ * @returns {object} - object { [address]: { ... }, ... }
+ */
+exports.mapAddressesOutOfList = (globalList) =>
   globalList.reduce((acc, token) => {
     const { address, ...rest } = token
     return {
@@ -67,7 +80,7 @@ exports.createTargetDir = (
     if (config.mode === 0) {
       mappedContent = module.exports.mapAddressesIntoList(parsedContent)
     } else if (config.mode === 1) {
-      mappedContent = module.exports.mapAddressesOutOfLists(parsedContent)
+      mappedContent = module.exports.mapAddressesOutOfList(parsedContent)
     } else if (config.mode === 2) {
       mappedContent = module.exports.createKeyValueLightVersion(
         parsedContent,
