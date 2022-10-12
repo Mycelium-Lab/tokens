@@ -2,7 +2,7 @@ const fs = require('fs')
 
 // In case reformatting is needed
 exports.reformatFiles = (dirName) => {
-  const dir = `./${dirName}`
+  const dir = `./content/${dirName}`
   const files = fs.readdirSync(dir)
 
   files.forEach((fileName) => {
@@ -38,8 +38,8 @@ exports.createTargetDir = (
   targetDirName = 'list_full',
   mode = 0
 ) => {
-  const targetDir = `./${targetDirName}`
-  const sourceDir = `./${sourceDirName}`
+  const targetDir = `./content/${targetDirName}`
+  const sourceDir = `./content/${sourceDirName}`
   const files = fs.readdirSync(sourceDir)
 
   if (!fs.existsSync(targetDir)) {
