@@ -1,0 +1,14 @@
+{
+  "0x2bf9b864cdc97b08b6d79ad4663e71b8ab65c45c": "beefy-finance",
+  "0x6a5f6a8121592becd6747a38d67451b310f7f156": "binance-usd",
+  "0xe57425f1598f9b0d6219706b77f4b3da573a3695": "bitcoin-br",
+  "0xeeeeeb57642040be42185f49c52f7e9b38f8eeee": "elk-finance",
+  "0x249be57637d8b013ad64785404b24aebae9b098b": "fuse-dollar",
+  "0x34ef2cc892a88415e9f02b91bfa9c91fc0be6bd4": "fusefi",
+  "0x0be9e53fd7edac9f859882afdda116645287c629": "fuse-network-token",
+  "0xfadbbf8ce7d5b7041be672561bba99f79c532e10": "tether",
+  "0x620fd5fa44be6af63715ef4e65ddfa0387ad13f5": "usd-coin",
+  "0x6acb34b1df86e254b544189ec32cf737e2482058": "wbnb",
+  "0xa722c13135930332eb3d749b2f0906559d2c5b99": "weth",
+  "0x33284f95ccb7b948d9d352e1439561cf83d8d00d": "wrapped-bitcoin"
+}

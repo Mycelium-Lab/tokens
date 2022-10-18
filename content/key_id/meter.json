@@ -1,0 +1,11 @@
+{
+  "0x24aa189dfaa76c671c279262f94434770f557c35": "binance-usd",
+  "0x228ebbee999c6a7ad74a6130e81b12f9fe237ba3": "meter",
+  "0xb158870beb809ad955bf56065c5c10d7fd957cc0": "moonriver",
+  "0x5fa41671c48e3c951afc30816947126ccc8c162e": "tether",
+  "0xd86e243fc0007e6226b07c9a50c9d70d78299eb5": "usd-coin",
+  "0x8df95e66cb0ef38f91d2776da3c921768982fba0": "voltswap",
+  "0xf8bbb44e6fd13632d36fe09eb61820f9a44f5d74": "wbnb",
+  "0x79a61d3a28f8c8537a3df63092927cfa1150fb3c": "weth",
+  "0xc1f6c86abee8e2e0b6fd5bd80f0b51fef783635c": "wrapped-bitcoin"
+}
