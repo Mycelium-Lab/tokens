@@ -5,7 +5,7 @@ const fs = require('fs')
  * @param {string} dirName - directory where files are located
  */
 exports.reformatFiles = (dirName) => {
-  const dir = `./content/${dirName}`
+  const dir = `./content/main/${dirName}`
   const files = fs.readdirSync(dir)
 
   files.forEach((fileName) => {
@@ -65,8 +65,8 @@ exports.createTargetDir = (
   targetDirName,
   config = { mode: 0, key: '' }
 ) => {
-  const targetDir = `./content/${targetDirName}`
-  const sourceDir = `./content/${sourceDirName}`
+  const targetDir = `./content/main/${targetDirName}`
+  const sourceDir = `./content/main/${sourceDirName}`
   const files = fs.readdirSync(sourceDir)
 
   if (!fs.existsSync(targetDir)) {
