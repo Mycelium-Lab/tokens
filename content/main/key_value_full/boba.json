@@ -57,7 +57,7 @@
     "name": "Tether",
     "symbol": "USDT",
     "decimals": 6,
-    "icon": "https://assets.coingecko.com/coins/images/325/small/Tether-logo.png?1598003707"
+    "icon": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x4988a896b1227218e4A686fdE5EabdcAbd91571f/logo.svg"
   },
   "0x375488f097176507e39b9653b88fdc52cde736bf": {
     "name": "UniDex",

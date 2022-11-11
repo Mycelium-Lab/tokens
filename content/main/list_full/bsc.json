@@ -30937,7 +30937,7 @@
     "name": "Tether",
     "symbol": "USDT",
     "decimals": 18,
-    "icon": "https://assets.coingecko.com/coins/images/325/small/Tether-logo.png?1598003707"
+    "icon": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x4988a896b1227218e4A686fdE5EabdcAbd91571f/logo.svg"
   },
   {
     "address": "0x49d5cc521f75e13fa8eb4e89e9d381352c897c96",

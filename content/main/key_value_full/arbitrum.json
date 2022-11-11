@@ -675,7 +675,7 @@
     "name": "Tether",
     "symbol": "USDT",
     "decimals": 6,
-    "icon": "https://assets.coingecko.com/coins/images/325/small/Tether-logo.png?1598003707"
+    "icon": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x4988a896b1227218e4A686fdE5EabdcAbd91571f/logo.svg"
   },
   "0x4425742f1ec8d98779690b5a3a6276db85ddc01a": {
     "name": "The Doge NFT",

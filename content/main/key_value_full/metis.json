@@ -135,7 +135,7 @@
     "name": "Tether",
     "symbol": "USDT",
     "decimals": 6,
-    "icon": "https://assets.coingecko.com/coins/images/325/small/Tether-logo.png?1598003707"
+    "icon": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x4988a896b1227218e4A686fdE5EabdcAbd91571f/logo.svg"
   },
   "0x69fdb77064ec5c84fa2f21072973eb28441f43f3": {
     "name": "Tethys Finance",
