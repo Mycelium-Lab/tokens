@@ -1187,6 +1187,12 @@
     "decimals": 9,
     "icon": "https://assets.coingecko.com/coins/images/27071/small/200*200.png?1661684995"
   },
+  "0x603c7f932ed1fc6575303d8fb018fdcbb0f39a95": {
+    "name": "ApeSwap",
+    "symbol": "BANANA",
+    "decimals": 18,
+    "icon": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BANANA.svg"
+  },
   "0x67d012f731c23f0313cea1186d0121779c77fcfe": {
     "name": "APOyield",
     "symbol": "SOUL",
